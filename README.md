@@ -87,11 +87,13 @@ class Balaji {
 
 <div align="center">
 
-> *"Ship real code. Solve real problems. Learn in public."*
+> *“Consistency beats intensity — small improvements every day compound into expertise.”*
 
 > *"Every bug is a lesson. Every deployment is proof you didn't give up."*
 
 > *"Read the docs, trust the stack, keep building."*
+
+> *“Talk is cheap. Show me the code.”*
 
 </div>
 
