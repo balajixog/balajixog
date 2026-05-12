@@ -18,7 +18,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balaji31072005@gmail.com)
 [![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balajixog)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-![Profile Views](https://komarev.com/ghpvc/?username=balajixog&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=balajixog&style=for-the-badge&color=blueviolet)](https://github.com/balajixog)
 
 </div>
 
@@ -53,7 +53,7 @@ class Balaji {
 ````
 ---
 
-# Tech Stack
+# `TechStack`
 
 <div align="center">
 
@@ -63,14 +63,14 @@ class Balaji {
 
 ---
 
-## 📈 Contribution Activity
+## `Contribution Activity`
 
 [<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=balajixog&bg_color=0d1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" /></div>](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=balajixog&theme=tokyonight)
 
 ---
 
-## 🧠 Currently Leveling Up
+## `Currently Leveling Up`
 
 ```
 ◈  Backend Engineering        ████████████  85%  → Spring Boot, REST APIs, JPA
@@ -83,7 +83,7 @@ class Balaji {
 
 ---
 
-## 💬 Dev Philosophy
+## 💬 `Dev Philosophy`
 
 <div align="center">
 
@@ -97,7 +97,7 @@ class Balaji {
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 `Let's Connect`
 
 <div align="center">
 
