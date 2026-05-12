@@ -107,7 +107,7 @@ class Balaji {
 
 [![Gmail](https://img.shields.io/badge/balaji31072005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balaji31072005@gmail.com)
 [![GitHub](https://img.shields.io/badge/github.com/balajixog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balajixog)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/balaji-g-b64589290/))
 
 <br/>
 
