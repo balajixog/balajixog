@@ -11,7 +11,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚════╝ ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=final+Year+IT+Student+%F0%9F%8E%93;Java+%26+Spring+Boot+Developer+%E2%9A%A1;Full+Stack+Engineer;Building+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Final+Year+IT+Student+%F0%9F%8E%93;Java+%26+Spring+Boot+Developer+%E2%9A%A1;Full+Stack+Engineer;Building+Real-World+Projects" alt="Typing SVG" />
 
 <br/>
 
